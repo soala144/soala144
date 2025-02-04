@@ -1,17 +1,17 @@
-# 👋Hi there! I'm Zakari
-📱 I’m a Mobile App developer, I use React Native Expo to create Cross-platform Mobile Applications for iOS and Android devices. <br/>
+# 👋Hi there! I'm Soala
+📱 I’m a Frontend developer, building we pages and web apps. <br/>
 
-🧠 I’m learning problem-solving techniques in JavaScript, TypeScript and refining my React Native skills. <br/>
+🧠 I’m learning problem-solving techniques in JavaScript, TypeScript and refining my React skills. <br/>
 
-👥 I’m looking to collaborate on **cross-platform mobile apps** or **React Native projects**. <br/>
+👥 I’m looking to collaborate on Innovative web applications. <br/>
 
-💬 Ask me about **React Native, Expo, Zustand, TypeScript, and JavaScript**. <br/>
+💬 Ask me about **React, CSS JavaScript**. <br/>
 
-📫 How to reach me: [soala144@gmail.com ] <br/>
+📫 How to reach me:[soala144@gmail.com ] <br/>
 
 👳‍♂️ Pronoun: **He/Him** <br/>
 
-⚡ Fun fact: I love combining technology with design, and I’m also passionate about exploring the intersection of agriculture and technology!🚜💻
+⚡ Fun fact: I love combining technology with design, and I’m also passionate about exploring the intersectiob of school and technology!🚜💻
 
 
 ## 🌐 Socials
