@@ -6,3 +6,6 @@ Hi, I'm soala, a frontend developer
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soala144&theme=algolia&hide_border=false&count_private=true&layout=compact)
 
+On the path to becoming a highly Skilled Full Stack and App developer.
+
+Balancing Tech and School 
