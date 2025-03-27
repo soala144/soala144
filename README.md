@@ -3,7 +3,11 @@ Hi, I'm soala, a frontend developer
 
 I plan on being a world class Frontend developer by the end of this year. 
 
-Learning some frontend tools like: Reacctjs, Typescript, Nextjs, Styled components. 
+Learning some frontend tools like: Reacctjs, Typescript, Nextjs, Styled components.
+
+Also want to explore the world of mobile app development this year. 
+
+
 ![](https://github-readme-stats.vercel.app/api?username=soala144&theme=algolia&hide_border=false&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=soala144&theme=dark&hide_border=false)
