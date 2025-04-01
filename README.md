@@ -2,7 +2,7 @@ Hi, I'm soala, a frontend developer
 
 I plan on being a world class Frontend developer by the end of this year.  
 
-Learning some frontend tools like: Reacctjs, Typescript, Nextjs, Styled components.
+Learning some frontend tools like: Reactjs, Typescript, Nextjs, Styled components.
 
 Also want to explore the world of mobile app development this year. 
  
